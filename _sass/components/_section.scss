@@ -68,3 +68,10 @@
 			}
 		}
 	}
+
+	.dark-section {
+		* {
+		  background: white;
+		  color: _palette(bg) !important; 
+		}
+	}

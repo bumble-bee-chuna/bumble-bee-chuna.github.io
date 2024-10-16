@@ -1,8 +1,10 @@
 # site settings
 title: Call Bubbie
-subtitle: :)
+subtitle: 
 email: youremailaddress@gmail.com
-description: We create free tools and services for folk in Multnomah County, OR and the MMIND (mad, mentally <br/>ill, neurodivergent, and disabled) community to offer recovery support.
+description: 
+  Call Bubbie is an organization run by Psychotic femmes, Psychotic queers, and the people who support them.<br /><br />
+  We make tools that help folks in Multnomah find affordable mental health supports.
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
