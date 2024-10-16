@@ -29,9 +29,11 @@ nav-menu: true
 	</dd>
     <dt>Who We Are</dt>
 	<dd>
-		<p>We are team of community workers, primarily peer support specialists and subject matter experts.<br /><br />
-		Our on the ground team includes 4 peers. 75% identify as queer, 75% of them identify as trans/nb/2S, 75% of them identify as disabled, 50% are BIPOC, 100% use they and/or she pronouns.<br /><br />
-		Our advisor includes 3 subject matter experts. 75% of them identify as trans/nb/2S, 75% are BIPOC, 100% use they and/or she pronouns, 100% of them identify as disabled.<br /><br />
+		<p>We are team of community workers, primarily peer support specialists and subject matter experts. 75% of the entire team experiences altered states and would be pathologized as "psychotic".<br /><br />
+		Our on the ground team includes 4 peers. 75% identify as queer, 75% of them identify as trans/nb/2S, 75% of them identify as disabled, 50% are BIPOC, 100% use they and/or she pronouns, 75% identify as disabled.<br /><br />
+		Our advisor includes 4 subject matter experts. 75% of them identify as trans/nb/2S, 75% are BIPOC, 100% use neopronouns, 100% of them identify as disabled.<br /><br />
+
+
 		</p>
 	</dd>
 
