@@ -18,7 +18,7 @@
 	    	{% endif %}
 		{% endfor %}
 		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
+		    {% if page.layout != "home" and page.title != "Non-Police Warmlines" and page.nav-menu == true %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
 		{% endfor %}
@@ -27,10 +27,15 @@
 			Projects</a>
 
 			<ul class="links">
+
+				<a href="/nonpolice-warmlines.html">Non-Police Warmlines</a><br />
 				<a href="https://drive.google.com/file/d/1DMtWcNTv0WyDl4BX5yVB1BvOp1OZQQS9/view?usp=drive_link" target="_blank">
 			Friendly Safety Plan Zine</a><br />
 
-			   <a href="/big-peer-calendar" target="_blank">The Big Virtual Peer Calendar</a>
+			   <a href="/big-peer-calendar" target="_blank">The Big Virtual Peer Calendar</a><br />
+
+			   <a href="/mini-case-management-tool" target="_blank">Mini Case Management Tool</a>
+
 			</ul>
 		</li>
 		<li>
