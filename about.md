@@ -35,7 +35,7 @@ nav-menu: true
 
 		<p>Our on the ground team includes 4 peers. 75% identify as queer, 75% of them identify as trans/nb/2S, 75% of them identify as disabled, 50% are BIPOC, 100% use they and/or she pronouns, 75% identify as disabled.</p>
 
-		<p>Our advisor includes 4 subject matter experts. 75% of them identify as trans/nb/2S, 75% are BIPOC, 75% use neopronouns and 25% use she pronouns, 100% of them identify as disabled.</p>
+		<p>Our advisor includes 4 subject matter experts. 75% of them identify as trans/nb/2S, 75% are BIPOC, 75% use neopronouns and 25% use she/her pronouns, 100% of them identify as disabled.</p>
 
 	</dd>
 
