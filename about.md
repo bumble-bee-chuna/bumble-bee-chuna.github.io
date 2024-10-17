@@ -27,7 +27,7 @@ nav-menu: true
 
 	<dt>Background</dt>
 	<dd>
-		<p>Call Bubbie was started in 2023 by a peer who was not able to get the affirming-community resources for a woman they were working with who experienced altered states. This woman was very inspirational for them and impressed on them to never live from a place of fear. Call Bubbie was born from the altered state this peer experienced in order to make sure their client's memory was a blessing. </p>
+		<p>Call Bubbie was started in 2023 by a peer who was not able to get the affirming-community resources for a woman they were working with who experienced altered states. This woman was very inspirational for them and impressed on them to never live from a place of fear. Call Bubbie was born from the altered state this peer experienced there after in order to make sure their client's memory was a blessing. </p>
 	</dd>
     <dt>Who We Are</dt>
 	<dd>
