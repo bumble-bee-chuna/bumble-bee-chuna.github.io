@@ -23,6 +23,8 @@ nav-menu: true
 		<p>The purpose of Call Bubbie is to serve trans/queer and effeminate folks who experience altered states that live on Cowlitz, Multnomah, and Clackamas land (referred to as Multnomah County, Oregon).</p>
 
 		<p>Altered states include suicidality, depression/anxiety, as well as experiences that fall under the <a href="https://www.hearing-voices.org/#content">Hearing Voices</a> umbrella (sensations, beliefs, and thoughts that are considered "unusual").</p>
+
+		<p>75% of our team experiences altered states and would be pathologized as "psychotic".</p>
 	</dd>
 
 	<dt>Background</dt>
