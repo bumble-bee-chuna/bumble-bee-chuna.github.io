@@ -27,7 +27,7 @@ nav-menu: true
 
 	<dt>Background</dt>
 	<dd>
-		<p>Call Bubbie was started in 2023 by a peer who was not able to get the affirming-community resources for a woman they were working with who experienced altered states. This woman was very inspirational for them and impressed on them to never live from a place of fear. Call Bubbie was born from the altered state this peer experienced there after in order to make sure their client's memory was a blessing. </p>
+		<p>Call Bubbie was started in 2023 by a peer support specialist who was not able to get the affirming-community resources for a woman they were working with who experienced altered states. This woman was very inspirational for them and impressed on them to never live from a place of fear. Call Bubbie was born from the altered state this peer experienced there after in order to make sure their client's memory was a blessing. </p>
 	</dd>
     <dt>Who We Are</dt>
 	<dd>
@@ -35,9 +35,13 @@ nav-menu: true
 
 		<p>Our on the ground team includes 4 peers. 75% identify as queer, 75% of them identify as trans/nb/2S, 75% of them identify as disabled, 50% are BIPOC, 100% use they and/or she pronouns, 75% identify as disabled.</p>
 
-		<p>Our advisor includes 4 subject matter experts. 75% of them identify as trans/nb/2S, 75% are BIPOC, 75% use neopronouns and 25% use she/her pronouns, 100% of them identify as disabled.</p>
-
+		<p>Our advisors include 4 subject matter experts. 75% of them identify as trans/nb/2S, 75% are BIPOC, 75% use neopronouns and 25% use she/her pronouns, 100% of them identify as disabled.</p>
 	</dd>
+
+	<dt>Funding</dt>
+	<dd>
+		<p>We are not a nonprofit. We are 100% community funded. If you would like to contribute to our efforts, please use our <a href="https://buy.stripe.com/00g29O8BK8sK8Q8eUV" target="_blank">Stripe page</a> or become a monthly subscriber via <a href="http://paypal.me/callbubbie" target="_blank">PayPal</a>. Thank you!</p>
+	</dd> 
 
 	
 </dl>
