@@ -17,7 +17,7 @@ nav-menu: true
 <p>Our vision encompasses three services to support queer, trans, and effeminate folk who fall under the <a href="https://www.hearing-voices.org/#content" target="_blank">Hearing Voices umbrella</a> and/or experience suiciality in Multnomah County, Oregon:</p>
 
 <p style="text-align: center;">
-	<img src="/assets/images/pic14.png" style="max-width:400px;">
+	<img src="/assets/images/pic14.png" style="width:400px;max-width: 100%;">
 </p>
 <dl>
 	<dt>Community visits</dt>
