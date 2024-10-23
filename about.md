@@ -20,7 +20,7 @@ nav-menu: true
 <dl>
 	<dt>Purpose</dt>
 	<dd>
-		<p>The purpose of Call Bubbie is to support queer, trans, and effeminate folk who fall under the <a href="https://www.hearing-voices.org/#content" target="_blank">Hearing Voices umbrella</a> and/or experience suiciality that live on Cowlitz, Multnomah, and Clackamas land (referred to as Multnomah County, Oregon).</p>
+		<p>The purpose of Call Bubbie is to support queer, trans, and effeminate folk who fall under the <a href="https://www.hearing-voices.org/#content" target="_blank">Hearing Voices umbrella</a> and/or experience suicidality that live on Cowlitz, Multnomah, and Clackamas land (referred to as Multnomah County, Oregon).</p>
 	</dd>
 
 	<dt>Who We Are</dt>
