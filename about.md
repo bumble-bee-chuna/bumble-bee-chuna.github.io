@@ -27,7 +27,7 @@ nav-menu: true
 	<dd>
 		<p><b>75% of our team experiences altered states and would be pathologized as "psychotic".</b></p>
 		
-		<p>We are team of community workers, primarily peer support specialists and subject matter experts. 75% of the entire team experiences altered states and would be pathologized as "psychotic".</p>
+		<p>We are team of community workers, primarily peer support specialists and subject matter experts.</p>
 
 		<p>Our on the ground team includes 4 peers. 75% identify as queer, 75% of them identify as trans/nb/2S, 75% of them identify as disabled, 50% are BIPOC, 100% use they and/or she pronouns, 75% identify as disabled.</p>
 
