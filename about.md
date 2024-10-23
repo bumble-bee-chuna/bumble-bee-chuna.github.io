@@ -25,7 +25,7 @@ nav-menu: true
 
 	<dt>Who We Are</dt>
 	<dd>
-		<p><b>75% of our team experiences altered states and would be pathologized as "psychotic".</b></p>
+		<p><b>75% of our team would be pathologized as "psychotic".</b></p>
 		
 		<p>We are team of community workers, primarily peer support specialists and subject matter experts.</p>
 
