@@ -25,7 +25,7 @@ nav-menu: true
 
 	<dt>Who We Are</dt>
 	<dd>
-		<p><b>75% of our team would be pathologized as "psychotic".</b></p>
+		<p><b>75% of our team experiences nonconsensus reality. For folk unfamiliar with this terminology or who may not be as aclimated with the mad liberation space, this means in a medical setting we would be pathologized as "psychotic", though this terminology is out of favor with the broader community.</b></p>
 		
 		<p>We are team of community workers, primarily peer support specialists and subject matter experts.</p>
 
