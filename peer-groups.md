@@ -22,7 +22,7 @@ nav-menu: true
 	<dt><br /><h3>Hearing Voice Network (HVN) Group - Trans/Queer & Women Specific </h3></dt>
 	<dd>
 		<p><b><i>Returning April 2025</i><br />
-		(For all folk who experience nonconsensus reality, not just those that hear voices)</b></p>
+		(For folk who experience nonconsensus reality, not just those that hear voices)</b></p>
 		<p>A Hearing Voices Network (HVN) group is a nonclinical peer support group for individuals who hear voices, see visions, or have other unusual sensory experiences. These groups provide a non-judgmental space where members can share their experiences, coping strategies, and support one another. HVN groups operate on the belief that such experiences are meaningful and can be understood in various ways beyond traditional psychiatric frameworks.</p>
 	</dd>
 </dl>
