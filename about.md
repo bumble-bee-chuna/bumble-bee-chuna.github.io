@@ -20,29 +20,34 @@ nav-menu: true
 <dl>
 	<dt>Purpose</dt>
 	<dd>
-		<p>The purpose of Call Bubbie is to support queer, trans, and effeminate folk who fall under the <a href="https://www.hearing-voices.org/#content" target="_blank">Hearing Voices umbrella</a> and/or experience suicidality that live on Cowlitz, Multnomah, and Clackamas land (referred to as Multnomah County, Oregon).</p>
+		<p>The purpose of Call Bubbie is to support  transgender people, individuals of marginalized genders, and women who navigate <a href="https://www.hearing-voices.org/#content" target="_blank">non-consensus realities</a> and/or suicidality.</p>
+		<p>Rooted in the values of community mental health and disability justice, we are a collective of poor and working-class individuals offering free or low-cost services to support and uplift people like us.</p>
 	</dd>
 
 	<dt>Who We Are</dt>
 	<dd>
-		<p><b>75% of our team experiences nonconsensus reality. For folk unfamiliar with this terminology or who may not be as aclimated with the mad liberation space, this means in a medical setting we would be pathologized as "psychotic", though this terminology is out of favor with the broader community.</b></p>
+		<p>We are based on Cowlitz, Multnomah, and Clackamas land referred to as Multnomah County, OR.</p> 
+
+		<p><b><u>About 75% of our team experiences nonconsensus reality. In medical terms, this might be described as "psychosis," though that term is less favored in the broader community and within the mad liberation space.</u></b></p>
 		
-		<p>We are team of community workers, primarily peer support specialists and subject matter experts.</p>
+		<p>We are a team of community workers, primarily composed of peer support specialists and subject matter experts.</p>
 
-		<p>Our on the ground team includes 4 peers. 75% identify as queer, 75% of them identify as trans/nb/2S, 75% of them identify as disabled, 50% are BIPOC, 100% use they and/or she pronouns, 75% identify as disabled.</p>
+		<p>Our on-the-ground team includes four peers. Among them, 75% identify as queer, 75% as trans, nonbinary, or Two-Spirit (2S), 75% as disabled, and 50% as Black, Indigenous, or People of Color (BIPOC). All members of this team use they and/or she pronouns.</p>
 
-		<p>Our advisors include 4 subject matter experts. 75% of them identify as trans/nb/2S, 75% are BIPOC, 75% use neopronouns and 25% use she/her pronouns, 100% of them identify as disabled.</p>
+		<p>Our advisory team includes four subject matter experts. Of these advisors, 75% identify as trans, nonbinary, or Two-Spirit (2S), 75% are BIPOC, 75% use neopronouns, 25% use she/her pronouns, and 100% identify as disabled.</p>
+
 	</dd>
 
 	<dt>Background</dt>
 	<dd>
-		<p>Call Bubbie was started in 2023 by a peer support specialist who was not able to get the affirming-community resources for a woman they were working with who experienced altered states. This woman was very inspirational for them and impressed on them to never live from a place of fear. Call Bubbie was born from the altered state this peer experienced there after in order to make sure their client's memory was a blessing. </p>
+		<p>Call Bubbie was founded in 2023 by a peer support specialist who encountered challenges in accessing affirming, community-based resources for a woman they were supporting through altered states. This woman was a profound source of inspiration, encouraging them to live boldly and never from a place of fear. The experience of supporting her left an indelible mark, leading to the creation of Call Bubbie in her honor. The organization was born from an altered state the founder experienced afterward, with the intention of ensuring that her memory remains a blessing.</p>
 	</dd>
 
 
 	<dt>Funding</dt>
 	<dd>
-		<p>We are not a nonprofit. We are 100% community funded. If you would like to contribute to our efforts, please use our <a href="https://buy.stripe.com/00g29O8BK8sK8Q8eUV" target="_blank">Stripe page</a> or become a monthly subscriber via <a href="http://paypal.me/callbubbie" target="_blank">PayPal</a>. Thank you!</p>
+		<p>We are not a nonprofit organization; we are entirely community-funded. If you would like to support our work, you can make a one-time contribution through our <a href="https://buy.stripe.com/00g29O8BK8sK8Q8eUV" target="_blank">Stripe page</a> or become a monthly subscriber via <a href="http://paypal.me/callbubbie" target="_blank">PayPal</a>. Thank you for your generosity!</p>
+
 	</dd> 
 
 	
