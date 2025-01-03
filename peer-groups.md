@@ -30,8 +30,7 @@ nav-menu: true
 <dl>
 	<dt><br /><h3>Alternatives 2 Suicide (Alt2Su) Group - Trans/Queer & Women Specific</h3></dt>
 	<dd>
-		<p><b><i>Returning April 2025</i><br />
-		(For all folk who experience nonconsensus reality, not just those that hear voices)</b></p>
+		<p><b><i>Returning April 2025</i></b></p>
 		<p>Alt2Su is a peer-to-peer, nonclinical group based on creating a space to openly talk about feelings of suicide and other taboo topics without fear of clinical intervention, forced hospitalization, state intervention, or judgement. Originally created by Wildflower Alliance, it focuses on warm and supportive listening rather than assessment and risk.</p>
 	</dd>
 </dl>
