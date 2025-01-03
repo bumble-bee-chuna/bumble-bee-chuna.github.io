@@ -72,13 +72,20 @@
 
 	.project > p {
 		display: block;
-		height: 310px;
+		height: 210px;
 		@include breakpoint(medium) {
 			
 			height: unset !important;
 			min-height: 50px;
 		}
 	}
+
+	@include breakpoint(medium) {
+		.last-project {
+			margin-top: 30px;
+		}
+	}
+	
 	.dark-section {
 		* {
 		  background: white;
