@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Vision
+title: Our Work
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -12,9 +12,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1 style="color:#702963;">Our Vision</h1>
+			<h1 style="color:#702963;">Our Work</h1>
 		</header>
-<p>Our vision encompasses three services to support queer, trans, and effeminate folk who fall under the <a href="https://www.hearing-voices.org/#content" target="_blank">Hearing Voices umbrella</a> and/or experience suiciality in Multnomah County, Oregon:</p>
+<p>Our work encompasses three services to support queer, trans, and effeminate folk who fall under the <a href="https://www.hearing-voices.org/#content" target="_blank">Hearing Voices umbrella</a> and/or experience suiciality in Multnomah County, Oregon:</p>
 
 <p style="text-align: center;">
 	<img src="/assets/images/pic14.png" style="width:400px;max-width: 100%;">
