@@ -46,7 +46,7 @@ nav-menu: true
 
 	<dt>Funding</dt>
 	<dd>
-		<p>We are proudly fiscally sponsored* by AWN (Autistic Women & Nonbinary Network). At the moment, we are entirely community-funded. If you would like to support our work, you can make a one-time or monthly contribution through<a href="hhttps://awnnetwork.org/call-bubbie/" target="_blank">our donation page</a>. Thank you for your generosity!</p>
+		<p>We are proudly fiscally sponsored* by AWN (Autistic Women & Nonbinary Network). At the moment, we are entirely community-funded. If you would like to support our work, you can make a one-time or monthly contribution through <a href="https://awnnetwork.org/call-bubbie/" target="_blank">our donation page</a>. Thank you for your generosity!</p>
 
 		<p><sub>*Note: "Fiscally sponsored" means AWN provides us with their 501c3 status in order for us to apply for grants as well as ensure donations are tax deductible. Call Bubbie's and AWN's budgets are not related whatsoever.</sub></p>
 
