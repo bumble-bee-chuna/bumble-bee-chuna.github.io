@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Work
+title: Our Work - Description
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
