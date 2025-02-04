@@ -2,7 +2,7 @@
 layout: page
 title: Peer Groups
 image: assets/images/pic01.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
