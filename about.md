@@ -21,7 +21,7 @@ nav-menu: true
 	<dt>Purpose</dt>
 	<dd>
 		<p>The purpose of Call Bubbie is to support  transgender people, individuals of marginalized genders, and women who navigate <a href="https://www.hearing-voices.org/#content" target="_blank">non-consensus realities</a> and/or suicidality.</p>
-		<p>Rooted in the values of community mental health and disability justice, we are a collective of poor and working-class individuals offering free or low-cost services to support and uplift people like us.</p>
+		<p>Rooted in the values of community mental health, disability justice, and transformative justice, we are a collective of poor and working-class individuals offering free peer services to support and uplift people like us.</p>
 	</dd>
 
 	<dt>Who We Are</dt>
