@@ -26,7 +26,7 @@ nav-menu: true
 
 	<dt>Who We Are</dt>
 	<dd>
-		<p>We are based on Cowlitz, Multnomah, and Clackamas land referred to as Multnomah County, OR.</p> 
+		<p>We are based on the land of the Multnomah, Clackamas, Kathlamet, Tualatin Kalapuya, and Molalla people referred to as Multnomah County, OR.</p> 
 
 		<p><b><u>About 75% of our team experiences nonconsensus reality. In medical terms, this might be described as "psychosis," though that term is less favored in the broader community and within the mad liberation space.</u></b></p>
 		
