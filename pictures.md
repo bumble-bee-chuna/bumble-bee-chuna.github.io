@@ -34,7 +34,7 @@ nav-menu: true
 
 		<div class="work-image__img-container">
 			<img src="/assets/images/our-work/9.png"><br />
-			Two of our crisis counselors on a call.
+			Two of our peer crisis counselors on a call.
 		</div>
 	</div>
 
