@@ -40,7 +40,7 @@ nav-menu: true
 
 	<dt>Background</dt>
 	<dd>
-		<p>Call Bubbie was founded in 2023 by a peer support specialist who encountered challenges in accessing affirming, community-based resources for a woman they were supporting through altered states. This woman was a profound source of inspiration, encouraging them to live boldly and never from a place of fear. The experience of supporting her left an indelible mark, leading to the creation of Call Bubbie in her honor. The organization was born from an altered state the founder experienced afterward, with the intention of ensuring that her memory remains a blessing.</p>
+		<p>Call Bubbie was founded in 2023 by a peer support specialist who encountered challenges in accessing affirming, community-based resources for a woman they were supporting through extreme states. This woman was a profound source of inspiration, encouraging them to live boldly and never from a place of fear. The experience of supporting her left an indelible mark, leading to the creation of Call Bubbie in her honor. The organization was born from an altered state the founder experienced afterward, with the intention of ensuring that her memory remains a blessing.</p>
 	</dd>
 
 
