@@ -14,7 +14,7 @@ nav-menu: true
 		<header class="major">
 			<h1 style="color:#702963;">Our Work</h1>
 		</header>
-<p>Our work encompasses three services to support queer, trans, and effeminate folk who fall under the <a href="https://www.hearing-voices.org/#content" target="_blank">Hearing Voices umbrella</a> and/or experience suiciality in Multnomah County, Oregon:</p>
+<p>Our work encompasses three services to support queer, trans, and effeminate folk who fall under the <a href="https://www.hearing-voices.org/#content" target="_blank">Hearing Voices umbrella</a> and/or experience suicidality in Multnomah County, Oregon:</p>
 
 <p style="text-align: center;">
 	<img src="/assets/images/pic14.png" style="width:400px;max-width: 100%;">
