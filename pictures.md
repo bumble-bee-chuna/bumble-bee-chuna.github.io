@@ -47,7 +47,7 @@ nav-menu: true
 
 		<div class="work-image__img-container" style="max-width:50%;">
 			<img src="/assets/images/our-work/7.jpg"><br />
-			A very nice community member gifted us barries on a community visit.
+			A very nice community member gifted us berries on a community visit.
 		</div>
 		
 	</div>
