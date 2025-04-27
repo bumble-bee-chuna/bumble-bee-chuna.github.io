@@ -13,6 +13,7 @@ nav-menu: false
 	<div class="inner">
 		<header class="major">
 			<h1>Non-Police Warmlines</h1>
+			<b>Important:</b> This page is in need of being updated. In the meantime, the most reliably reachable line is the David Romprey Oregon Warmline.
 		</header>
 
 
