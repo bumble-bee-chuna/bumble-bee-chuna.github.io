@@ -2,7 +2,7 @@
 layout: page
 title: Crisis Response
 image: assets/images/pic01.jpg
-nav-menu: false
+nav-menu: true
 ---
 
 <!-- Main -->
