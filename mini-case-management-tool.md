@@ -12,7 +12,7 @@ nav-menu: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Coming soon</h1>
+			We're now live :)  <a href="https://multnomahresourcehub.org/" target="_blank">https://multnomahresourcehub.org/</a>
 		</header>
 
 </div>
