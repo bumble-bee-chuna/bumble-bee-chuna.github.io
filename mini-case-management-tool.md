@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coming Soon
+title: Mini Case Management Tool
 image: assets/images/pic01.jpg
 nav-menu: false
 ---
