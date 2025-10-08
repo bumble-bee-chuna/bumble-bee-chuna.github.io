@@ -59,7 +59,6 @@ nav-menu: true
 		</div>
 
 		<div class="work-image__img-container">
-			<img src="/assets/images/our-work/4.gif" style="min-width:100%;"><br />
  			 			One of our donation sites.
 		</div>
 	</div>
