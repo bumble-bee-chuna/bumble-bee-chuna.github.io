@@ -30,7 +30,7 @@ nav-menu: false
 
 				<li>
 					<a href="https://strongheartshelpline.org/" target="_blanket"><b>StrongHearts Native Helpline</b></a><br />
-					Native Americans and Alaska Natives culturally-specific domestic violence and sexual assault support.<br />
+					Native American and Alaska Native, culturally-specific domestic violence and sexual assault support.<br />
 					Availability: 24/7<br/>
 					Call 1-888-235-5333 <br />
 				</li>
