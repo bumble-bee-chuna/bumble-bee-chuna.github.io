@@ -25,6 +25,24 @@ nav-menu: true
 	</dd>
 
 	<dt>Who We Are</dt>
+
+	<dd>
+		<p>We are a small but mighty team of two on-the-ground peer support specialists and two subject matter expert advisors, who act as our mentors in the work.</p>
+
+		<p>Our work is rooted in Disability Justice and Transformative Justice; essentially, creating mental health community supports without carceral and punitive intersections.</p>
+		
+		<p>75% of our team experiences non-consensus reality.</p>
+
+		<p>50% of our team are psychiatric survivors.</p>
+		
+		<p>75% of our team identify as disabled.</p>
+		
+		<p>75% of our team identifies as trans or queer.</p>
+		
+		<p>100% of our team has lived experience with recovery (both mental health recovery and substance recovery.</p>
+		
+		<p>Our on-the-ground peers include 1 white peer and one mixed-race person of the global majority. Our advisors are both mixed-race and people of the global majority.</p>
+	</dd>
 	<dd>
 		<p>We are based on the land of the Multnomah, Clackamas, Kathlamet, Tualatin Kalapuya, and Molalla people referred to as Multnomah County, OR.</p> 
 
