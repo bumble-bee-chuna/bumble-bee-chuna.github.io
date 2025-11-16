@@ -39,7 +39,7 @@ nav-menu: true
 		
 		<p>75% of our team identifies as trans or queer.</p>
 		
-		<p>100% of our team has lived experience with recovery (both mental health recovery and substance recovery.</p>
+		<p>100% of our team has lived experience with recovery (both mental health recovery and substance recovery).</p>
 		
 		<p>Our on-the-ground peers include 1 white peer and one mixed-race person of the global majority. Our advisors are both mixed-race and people of the global majority.</p>
 	</dd>
