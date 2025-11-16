@@ -62,6 +62,31 @@ nav-menu: true
 
 	</dd> 
 
+	<dd> <b>We are very proudly supported by:</b>
+
+	<ul>
+		<li>Borealis Communities Transforming Policing Fund</li>
+
+		<li>Third Wave Mobilizing Power Fund</li>
+		
+		<li>Third Wave Accountable Futures Fund</li>
+		
+		<li>Urgent Action Fund</li>
+		
+		<li>Social Justice Fund NW</li>
+		
+		<li>Resist Foundation</li>
+		
+		<li>Trans Justice Funding Project</li>
+		
+		<li>Emergent Fund</li>
+		
+		<li>Action for Transformation Fund</li>
+		
+		<li>Circle for Justice innovations Rapid Response Grant</li>
+	</ul>
+	</dd>
+
 	
 </dl>
 
