@@ -18,7 +18,7 @@ nav-menu: false
 				<li>
 					<a href="https://ccswebsite.org/warmline/" target="_blanket"><b>David Romprey Peer Support Warmline</b></a><br />
 					Availability: 24/7<br/>
-					Call 1-800-698-2392<br />
+					Call 1-800-698-2392<br /><br />
 				</li>
 
 				<li>
@@ -38,7 +38,7 @@ nav-menu: false
         <li>
             <a href="https://ccswebsite.org/warmline/" target="_blanket"><b>Línea de Apoyo entre Pares David Romprey</b></a><br />
             Disponibilidad: 24/7<br/>
-            Llama al 1-800-698-2392<br />
+            Llama al 1-800-698-2392<br /><br />
         </li>
 
 		<li>
