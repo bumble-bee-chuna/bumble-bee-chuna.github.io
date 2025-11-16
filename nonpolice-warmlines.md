@@ -17,13 +17,13 @@ nav-menu: false
 			<ul>
 				<li>
 					<a href="https://ccswebsite.org/warmline/" target="_blanket"><b>David Romprey Peer Support Warmline</b></a><br />
-					Domestic violence and sexual assault support.<br />
 					Availability: 24/7<br/>
 					Call 1-800-698-2392<br />
 				</li>
 
 				<li>
 					<a href="https://calltosafety.org/" target="_blanket"><b>Call To Safety</b></a><br />
+					Domestic violence and sexual assault support.<br />
 					Availability: 24/7<br/>
 					Call 1-888-235-5333 <br />
 				</li>
