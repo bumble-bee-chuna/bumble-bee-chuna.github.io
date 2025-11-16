@@ -25,6 +25,13 @@ nav-menu: false
 					<a href="https://calltosafety.org/" target="_blanket"><b>Call To Safety</b></a><br />
 					Domestic violence and sexual assault support.<br />
 					Availability: 24/7<br/>
+					Call 1-888-235-5333 <br /><br/>
+				</li>
+
+				<li>
+					<a href="https://strongheartshelpline.org/" target="_blanket"><b>StrongHearts Native Helpline</b></a><br />
+					Native Americans and Alaska Natives culturally-specific domestic violence and sexual assault support.<br />
+					Availability: 24/7<br/>
 					Call 1-888-235-5333 <br />
 				</li>
 				
@@ -47,6 +54,14 @@ nav-menu: false
 			Disponibilidad: 24/7<br/>
 			Llama al 1-888-235-5333 <br />
 		</li>
+
+		<li>
+			<a href="https://strongheartshelpline.org/" target="_blanket"><b>Línea de Ayuda StrongHearts para Comunidades Nativas</b></a><br />
+			Apoyo culturalmente específico para personas Nativas Americanas y Nativas de Alaska que enfrentan violencia doméstica y agresión sexual.<br />
+			Disponibilidad: 24/7<br/>
+			Llame al 1-888-235-5333 <br />
+		</li>
+
     </ul>
 </header>
 
