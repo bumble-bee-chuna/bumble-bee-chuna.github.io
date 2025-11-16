@@ -28,14 +28,6 @@ nav-menu: true
 	<dd>
 		<p>We are based on the land of the Multnomah, Clackamas, Kathlamet, Tualatin Kalapuya, and Molalla people referred to as Multnomah County, OR.</p> 
 
-		<p><b><u>About 75% of our team experiences nonconsensus reality. In medical terms, this might be described as "psychosis," though that term is less favored in the broader community and within the mad liberation space.</u></b></p>
-		
-		<p>We are a team of community workers, primarily composed of peer support specialists and subject matter experts.</p>
-
-		<p>Our on-the-ground team includes four peers. Among them, 75% identify as queer, 75% as trans, nonbinary, or Two-Spirit (2S), 75% as disabled, and 50% as Black, Indigenous, or People of Color (BIPOC). All members of this team use they and/or she pronouns.</p>
-
-		<p>Our advisory team includes four subject matter experts. Of these advisors, 75% identify as trans, nonbinary, or Two-Spirit (2S), 75% are BIPOC, 75% use neopronouns, 25% use she/her pronouns, and 100% identify as disabled.</p>
-
 	</dd>
 
 	<dt>Background</dt>
